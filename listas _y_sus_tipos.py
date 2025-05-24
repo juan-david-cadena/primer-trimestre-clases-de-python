@@ -62,4 +62,4 @@
 list = [1,2,3,4,5,6]
 print (list)
 list.insert (2,"hola mundo")
-print (list)
+print (list) #oklpok
