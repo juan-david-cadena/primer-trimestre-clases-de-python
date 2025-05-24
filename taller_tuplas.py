@@ -29,7 +29,7 @@ multiplicacion= (100,1000)
 multiplicacion1 = multiplicacion[0] * multiplicacion[1]
 print(multiplicacion1)
 
-#8 agregacion y extraccion de listas
+#8 agregacion y extraccion de listas.......
 agregacion = [6,4,8]
 print(agregacion)
 agregacion.append(input("agrega un cuarto elemento "))
